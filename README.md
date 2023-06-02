@@ -40,4 +40,16 @@ The results of the heart attack analysis are presented in the following forms:
 - Insights and findings derived from the analysis, highlighting the significant factors associated with heart attack occurrence.
 
 
+### App Screenshots
+
+![](App Screenshots/app ss1.png)
+
+
+![](App Screenshots/app ss2.png)
+
+
+![](App Screenshots/app ss3.png)
+
+
+
 
