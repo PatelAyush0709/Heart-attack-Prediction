@@ -41,13 +41,14 @@ The results of the heart attack analysis are presented in the following forms:
 
 
 ### App Screenshots
-![Alt text](App Screenshots/app ss1.png)
+![app ss1](https://github.com/PatelAyush0709/Heart-attack-Prediction/assets/124557728/24ea9a08-21a6-4c46-aaf4-0f5de6ad6586)
 
 
-![Alt text](App Screenshots/app ss2.png)
+
+![app ss2](https://github.com/PatelAyush0709/Heart-attack-Prediction/assets/124557728/478ac825-3779-4ca6-98d7-5defd70e611d)
 
 
-![Alt text](App Screenshots/app ss3.png)
+![app ss3](https://github.com/PatelAyush0709/Heart-attack-Prediction/assets/124557728/1aa66ef3-5161-4116-9d0e-7cc4a46c25eb)
 
 
 
