@@ -41,7 +41,6 @@ The results of the heart attack analysis are presented in the following forms:
 
 
 ### App Screenshots
-
 ![](App Screenshots/app ss1.png)
 
 
@@ -49,7 +48,6 @@ The results of the heart attack analysis are presented in the following forms:
 
 
 ![](App Screenshots/app ss3.png)
-
 
 
 
